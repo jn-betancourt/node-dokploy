@@ -4,7 +4,7 @@ const port = process.env.PORT || 3000;
 app.get('/', (req, res) => {
     res.json({
         mensaje: '¡Aplicación desplegada con Dokploy!',
-        institucion: 'Universidad del Quindío - SEGUNDO PUSH PARA REALIZAR CI/CD EFECTIVO 2',
+        institucion: 'Universidad del Quindío - SEGUNDO PUSH PARA REALIZAR CI/CD EFECTIVO 23',
 
 
         programa: 'Ingeniería de Sistemas y Computación',
